@@ -11,6 +11,8 @@
 </div>
 
 ##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAlmeida18&hide=contribs&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlmeida18&layout=compact&theme=synthwave&size_weight=0.1&count_weight=1)](https://github.com/PedroAlmeida18/github-readme-stats)
 
 ### 📚 Estudanto no momento
 
