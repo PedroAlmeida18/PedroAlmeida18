@@ -3,8 +3,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohas35@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-almeida-b69195279/)
 
- ![Pedro Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAlmeida18&show_icons=true&theme=blue)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlmeida18&langs_count=8)
+ ![Pedro Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAlmeida18&show_icons=true&dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlmeida18)]
  
  ### Tecnologias que uso/estudando 💻
  <div style="display: inline_block"><br/>
