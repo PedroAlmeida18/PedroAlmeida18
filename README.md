@@ -17,6 +17,6 @@
  </div> <br/>
  
  ### Minha História
- Sou aluno da Universidade Federal Rural de Pernambuco (UFRPE) - Unidade acadêmica de Belo Jardim,atualmente no 4º de Eng.da Computação e tenho um sonho de ser um grande programador. 
+ Sou aluno da Universidade Federal Rural de Pernambuco (UFRPE) - Unidade acadêmica de Belo Jardim,atualmente no 6º de Eng.da Computação e tenho um sonho de ser um grande programador. 
  
   
