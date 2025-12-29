@@ -1,27 +1,41 @@
-### Olá! Eu sou Pedro Henrique de Almeida Santos 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_almeidax/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohas35@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-de-almeida-santos-b69195279/)
+## 👋 Olá! Eu sou Pedro Henrique de Almeida Santos
 
- ![Pedro Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAlmeida18&show_icons=true&dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlmeida18)]
- 
- ### Tecnologias que uso/estudando 💻
- <div style="display: inline_block"><br/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img align="center" alt="MJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg">
-  
-  
- </div> <br/>
- 
- ### Minha História
- Sou aluno da Universidade Federal Rural de Pernambuco (UFRPE) - Unidade acadêmica de Belo Jardim,atualmente no 6º de Eng.da Computação e tenho um sonho de ser um grande programador. 
- 
-  
+🎓 Estudante de **Engenharia da Computação** (7º período) na UFRPE  
+💻 **Desenvolvedor de Software Júnior**, com foco em **Inteligência Artificial, Análise de Dados e Desenvolvimento Mobile**  
+📊 **Monitor da disciplina de Estatística e Probabilidade**
+
+Tenho experiência no desenvolvimento de **projetos práticos** envolvendo:
+- Inteligência Artificial e Machine Learning  
+- Aplicativos mobile (Android e Unity)  
+- Análise de dados com Python  
+- Desenvolvimento de software com Java e C#
+
+Atualmente, busco **oportunidades de estágio ou vaga júnior** onde eu possa aplicar meus conhecimentos técnicos, aprender com profissionais experientes e contribuir para soluções tecnológicas de impacto.
+
+---
+
+### 🔗 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-de-almeida-santos-b69195279/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohas35@gmail.com)
+
+---
+
+### 🛠️ Habilidades Técnicas
+**Linguagens:** Python, Java, Kotlin, C#, JavaScript  
+**IA e Dados:** Machine Learning, Deep Learning (PyTorch), Estatística com Python  
+**Mobile e Jogos:** Desenvolvimento Android, Unity (2D/3D, Mobile e Multiplayer)  
+**Ferramentas:** Firebase, Git, Vuforia  
+
+---
+
+### 📊 Estatísticas do GitHub
+![Pedro Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAlmeida18&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlmeida18&layout=compact)
+
+---
+
+### 🚀 O que você encontrará aqui
+- Projetos práticos com **Inteligência Artificial e Análise de Dados**
+- Aplicações mobile desenvolvidas para **cenários acadêmicos e reais**
+- Experimentos com **Machine Learning e Estatística**
+- Código organizado, documentado e focado em boas práticas
